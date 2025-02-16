@@ -364,3 +364,7 @@ FodyWeavers.xsd
 /BackendWebCoreApi/notestxt.txt
 /BackendWebCoreApi/appsettings.Development.json
 /BackendWebCoreApi/appsettings.Development.json
+/BackendWebCoreApi/notes_Arabic.txt
+/BackendWebCoreApi/notes_English.txt
+/BackendWebCoreApi/notes_ar.docx
+/BackendWebCoreApi/notes_Images/jwt_claims.png
